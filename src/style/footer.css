@@ -1,0 +1,28 @@
+
+.use p{
+    font-family: DM Sans;
+font-size: 18px;
+font-weight: 700;
+}
+
+
+@media (min-width:768px) {
+    .foo{
+        /* background-color: red; */
+        width: 60%;
+        margin: 0 auto;
+    } 
+    .use{
+        display: flex;
+        justify-content: center;
+      }
+      .use p{
+        width: 200p
+      }
+}
+
+@media (min-width:1000px) {
+    .foo{
+        width: 40%;
+    }
+}

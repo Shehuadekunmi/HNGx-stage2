@@ -1,0 +1,49 @@
+#root {
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+  /* text-align: center; */
+}
+
+
+.her{
+  width: 80%;
+  margin: 0 auto;
+}
+.hero{
+  background-image: url('./assets/Poster.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.bt{
+  width: Hug (169px);
+height: Hug (36px);
+padding: 6px 16px 6px 16px;
+border-radius: 6px;
+gap: 8px;
+background: #BE123C;
+border: none;
+}
+
+
+/* header */
+
+
+@media (min-width:760px) {
+  .text{
+    margin: auto 0;
+    padding-left: 50px;
+  }
+  .text h1, p{
+    width: 300px;
+  }
+}
+
+@media (min-width:1000px) {
+  .text{
+    padding-top: 18%;
+
+  }
+}
+

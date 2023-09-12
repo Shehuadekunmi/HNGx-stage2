@@ -1,0 +1,23 @@
+/* .car{
+    display: grid;
+    grid-template-columns: (1);
+    background-color: red;
+} */
+
+.fav{
+    width: 40px;
+    position: relative;
+    left: 14rem;
+    bottom: 25rem;
+}
+.opa p{
+    color: #9CA3AF;
+}
+
+@media (min-width:760px) {
+    .car{
+        width: 80%;
+        margin: 0 auto;
+        column-gap: 70px;
+    }
+}
