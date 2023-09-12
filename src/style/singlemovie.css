@@ -1,0 +1,59 @@
+.watch{
+    background-image: url('../assets/tral.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+height: 200px;
+border-radius: 20px;
+
+    width: 60%;
+    margin-left: 130px;
+}
+
+.watch h1{
+    padding-top: 5rem;
+}
+
+
+.single{
+    width: 60%;
+    margin-left: 130px;
+    background-color: red;
+}
+
+
+
+
+
+@media (min-width:760px) {
+    .watch{
+        margin-left: 12rem;
+        margin-top: 20px;
+        width: 70%;
+        height: 200px;
+    }
+    .watch h1{
+        padding-top: 7rem;
+    }
+    .single{
+        margin-left: 12rem;
+        width: 70%;
+    }
+}
+
+
+
+
+@media (min-width:1000px) {
+    .watch{
+        margin-left: 20rem;
+        height: 400px;
+    }
+    .watch h1{
+        padding-top: 13rem;
+    }
+
+    .single{
+        margin-left: 20rem;
+    }
+}
+
