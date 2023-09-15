@@ -54,7 +54,7 @@ const Carddetails = () => {
           movies.slice(0, 10).map((m) => {
             const { id, poster_path, title, release_date, vote_average, genre_ids } = m;
             return (
-              <Link to={`singlemovie/${id}`} className='text-decoration-none  ' key={id}>
+              <Link to={`Moviedetails/${id}`} className='text-decoration-none  ' key={id}>
 
                 <Card style={{ width: '18rem', height:'auto' }} data-testid="movie-card" className='my-3'>
                   <Card.Img variant="top" src={`https://image.tmdb.org/t/p/w500/${poster_path}`} data-testid="movie-poster" />

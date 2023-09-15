@@ -74,7 +74,7 @@ const {backdrop_path, id,  runtime, release_date, overview, title, genres} = mov
 </div>
   <div className="but"><button >Action</button>  <button>Drama</button></div>
   <h5 data-testid="movie-release_date" >{release_date}</h5>
-  <p data-testid="movie-runtime">{runtime}mins</p>
+  <p data-testid="movie-runtime">{runtime}</p>
   </div>
   <p data-testid="movie-overview">{overview}</p>
 </div>
