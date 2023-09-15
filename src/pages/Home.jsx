@@ -16,7 +16,6 @@ const Home = () => {
       <Carddetails/>
 
 
-      <h1>HELLO ooo</h1>
      
 
       <Footer />

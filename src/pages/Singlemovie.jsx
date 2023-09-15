@@ -50,7 +50,7 @@ const {backdrop_path, id,  runtime, release_date, overview, title, genres} = mov
     <div>
       <Sidebar/>
 
-      <div className='my-5'>
+      <div className='my-3'>
         {
           backdrop_path ? (
             <div className='watch text-white' style={{backgroundImage: `url(${image_path}${backdrop_path})`}}>
