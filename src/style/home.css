@@ -3,13 +3,14 @@
     grid-template-columns: (1);
     background-color: red;
 } */
-
-.fav{
-    width: 40px;
-    position: relative;
-    left: 14rem;
-    bottom: 25rem;
+.cc-container{
+    width: 90%;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    overflow-x: scroll;
+    margin: 0 auto;
 }
+
 .opa p{
     color: #9CA3AF;
 }
@@ -20,4 +21,26 @@
         margin: 0 auto;
         column-gap: 70px;
     }
+    .cc-container{
+        grid-template-columns: repeat(2, 1fr);
+        overflow-x: none;
+        width: 80%;
+        padding: 1rem;
+        column-gap: 10px;
+        justify-content: center;
+        margin: 0 auto;
+    }
+  
+}
+
+@media (min-width:1000px) {
+    .cc-container{
+        grid-template-columns: repeat(3, 1fr);
+        overflow-x: none;
+        width: 80%;
+       
+    }
+    .fav{
+    font-size: 40px;
+            }
 }

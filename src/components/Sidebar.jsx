@@ -15,7 +15,7 @@ const Sidebar = () => {
               <p>MovieBox</p>
             </div>
             <div className="desk"><img src={logo} alt="" /></div>
-            <div className='text-center my-md-2 my-lg-4'>
+            <div className='text-center hom my-md-2 my-lg-4'>
               <p> <GrHomeRounded/> Home</p>
             </div>
 
@@ -23,11 +23,11 @@ const Sidebar = () => {
               <p>  <BiCameraMovie/> Movies</p>
             </div>
 
-            <div className='text-center my-md-2 my-lg-4'>
+            <div className='text-center tv my-md-2 my-lg-4'>
               <p> <BiSlideshow/>  TV Series</p>
             </div>
 
-            <div className='text-center my-md-2 my-lg-4'>
+            <div className='text-center up my-md-2 my-lg-4'>
               <p> <SlCalender/> Upcoming</p>
             </div>
 

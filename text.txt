@@ -1,0 +1,199 @@
+ <section className=' car d-md-flex flex-wrap justify-content-around my-4'>
+        <div className='my-4 mx-3 '>
+
+          <Card style={{ width: '18rem' }}  data-testid="movie-card" >
+            <Card.Img variant="top" src={Poster1} data-testid="movie-poster" />
+            <Card.Body>
+              <Card.Title className='opa' >
+                <p><img src={fav} alt="" className='text-dark  fav' /></p>
+                <p data-testid="movie-release-date">USA, 2016 - Current</p>
+                <h4 data-testid="movie-title">Stranger Things</h4>
+                <div className="ico d-fle ">
+                  <p> <img src={imbd} alt="" />  86.0 / 100  <img src={app} alt="" className='ms-5' /> 97% </p>
+                </div>
+                <p>Action, Adventure, Horror</p>
+              </Card.Title>
+            </Card.Body>
+          </Card>
+        </div>
+
+        <div className='my-4 mx-3 '>
+          <Card style={{ width: '18rem' }}>
+            <Card.Img variant="top" src={Poster1} />
+            <Card.Body>
+              <Card.Title className='opa' >
+                <p><img src={fav} alt="" className='text-dark  fav' /></p>
+                <p>USA, 2016 - Current</p>
+                <h4>Stranger Things</h4>
+                <div className="ico d-fle ">
+                  <p> <img src={imbd} alt="" />  86.0 / 100  <img src={app} alt="" className='ms-5' /> 97% </p>
+                </div>
+                <p>Action, Adventure, Horror</p>
+              </Card.Title>
+            </Card.Body>
+          </Card>
+        </div>
+      
+
+        <div className='my-4 mx-3 '>
+          <Card style={{ width: '18rem' }}>
+            <Card.Img variant="top" src={Poster1} />
+            <Card.Body>
+              <Card.Title className='opa' >
+                <p><img src={fav} alt="" className='text-dark  fav' /></p>
+                <p>USA, 2016 - Current</p>
+                <h4>Stranger Things</h4>
+                <div className="ico d-fle ">
+                  <p> <img src={imbd} alt="" />  86.0 / 100  <img src={app} alt="" className='ms-5' /> 97% </p>
+                </div>
+                <p>Action, Adventure, Horror</p>
+              </Card.Title>
+            </Card.Body>
+          </Card>
+        </div>
+      
+
+        <div className='my-4 mx-3 '>
+          <Card style={{ width: '18rem' }}>
+            <Card.Img variant="top" src={Poster1} />
+            <Card.Body>
+              <Card.Title className='opa' >
+                <p><img src={fav} alt="" className='text-dark  fav' /></p>
+                <p>USA, 2016 - Current</p>
+                <h4>Stranger Things</h4>
+                <div className="ico d-fle ">
+                  <p> <img src={imbd} alt="" />  86.0 / 100  <img src={app} alt="" className='ms-5' /> 97% </p>
+                </div>
+                <p>Action, Adventure, Horror</p>
+              </Card.Title>
+            </Card.Body>
+          </Card>
+        </div>
+      
+
+        <div className='my-4 mx-3 '>
+          <Card style={{ width: '18rem' }}>
+            <Card.Img variant="top" src={Poster1} />
+            <Card.Body>
+              <Card.Title className='opa' >
+                <p><img src={fav} alt="" className='text-dark  fav' /></p>
+                <p>USA, 2016 - Current</p>
+                <h4>Stranger Things</h4>
+                <div className="ico d-fle ">
+                  <p> <img src={imbd} alt="" />  86.0 / 100  <img src={app} alt="" className='ms-5' /> 97% </p>
+                </div>
+                <p>Action, Adventure, Horror</p>
+              </Card.Title>
+            </Card.Body>
+          </Card>
+        </div>
+      
+
+        <div className='my-4 mx-3 '>
+          <Card style={{ width: '18rem' }}>
+            <Card.Img variant="top" src={Poster1} />
+            <Card.Body>
+              <Card.Title className='opa' >
+                <p><img src={fav} alt="" className='text-dark  fav' /></p>
+                <p>USA, 2016 - Current</p>
+                <h4>Stranger Things</h4>
+                <div className="ico d-fle ">
+                  <p> <img src={imbd} alt="" />  86.0 / 100  <img src={app} alt="" className='ms-5' /> 97% </p>
+                </div>
+                <p>Action, Adventure, Horror</p>
+              </Card.Title>
+            </Card.Body>
+          </Card>
+        </div>
+      
+
+        <div className='my-4 mx-3 '>
+          <Card style={{ width: '18rem' }}>
+            <Card.Img variant="top" src={Poster1} />
+            <Card.Body>
+              <Card.Title className='opa' >
+                <p><img src={fav} alt="" className='text-dark  fav' /></p>
+                <p>USA, 2016 - Current</p>
+                <h4>Stranger Things</h4>
+                <div className="ico d-fle ">
+                  <p> <img src={imbd} alt="" />  86.0 / 100  <img src={app} alt="" className='ms-5' /> 97% </p>
+                </div>
+                <p>Action, Adventure, Horror</p>
+              </Card.Title>
+            </Card.Body>
+          </Card>
+        </div>
+      
+
+        <div className='my-4 mx-3 '>
+          <Card style={{ width: '18rem' }}>
+            <Card.Img variant="top" src={Poster1} />
+            <Card.Body>
+              <Card.Title className='opa' >
+                <p><img src={fav} alt="" className='text-dark  fav' /></p>
+                <p>USA, 2016 - Current</p>
+                <h4>Stranger Things</h4>
+                <div className="ico d-fle ">
+                  <p> <img src={imbd} alt="" />  86.0 / 100  <img src={app} alt="" className='ms-5' /> 97% </p>
+                </div>
+                <p>Action, Adventure, Horror</p>
+              </Card.Title>
+            </Card.Body>
+          </Card>
+        </div>
+      
+        <div className='my-4 mx-3 '>
+          <Card style={{ width: '18rem' }}>
+            <Card.Img variant="top" src={Poster1} />
+            <Card.Body>
+              <Card.Title className='opa' >
+                <p><img src={fav} alt="" className='text-dark  fav' /></p>
+                <p>USA, 2016 - Current</p>
+                <h4>Stranger Things</h4>
+                <div className="ico d-fle ">
+                  <p> <img src={imbd} alt="" />  86.0 / 100  <img src={app} alt="" className='ms-5' /> 97% </p>
+                </div>
+                <p>Action, Adventure, Horror</p>
+              </Card.Title>
+            </Card.Body>
+          </Card>
+        </div>
+      
+
+        <div className='my-4 mx-3 '>
+          <Card style={{ width: '18rem' }}>
+            <Card.Img variant="top" src={Poster1} />
+            <Card.Body>
+              <Card.Title className='opa' >
+                <p><img src={fav} alt="" className='text-dark  fav' /></p>
+                <p>USA, 2016 - Current</p>
+                <h4>Stranger Things</h4>
+                <div className="ico d-fle ">
+                  <p> <img src={imbd} alt="" />  86.0 / 100  <img src={app} alt="" className='ms-5' /> 97% </p>
+                </div>
+                <p>Action, Adventure, Horror</p>
+              </Card.Title>
+            </Card.Body>
+          </Card>
+        </div>
+      
+
+        <div className='my-4 mx-3 '>
+          <Card style={{ width: '18rem' }}>
+            <Card.Img variant="top" src={Poster1} />
+            <Card.Body>
+              <Card.Title className='opa' >
+                <p><img src={fav} alt="" className='text-dark  fav' /></p>
+                <p>USA, 2016 - Current</p>
+                <h4>Stranger Things</h4>
+                <div className="ico d-fle ">
+                  <p> <img src={imbd} alt="" />  86.0 / 100  <img src={app} alt="" className='ms-5' /> 97% </p>
+                </div>
+                <p>Action, Adventure, Horror</p>
+              </Card.Title>
+            </Card.Body>
+          </Card>
+        </div>
+      
+      
+      </section>
