@@ -11,7 +11,7 @@
 
 # Getting Started
 -Clone the repo: **` git clone https://github.com/Shehuadekunmi/HNGx-stage2.git`
-- After install the package with:  **` npm install`**,
+- After install the package with:  **` npm install`**
 -Then view the project on browser with: **`npm run dev`**
 
 
